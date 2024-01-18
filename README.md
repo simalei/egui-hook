@@ -1,5 +1,5 @@
 # egui-hook
-My egui hook. Works with 0.25 and tailored for Geometry Dash.
+My egui hook. Works with egui 0.25 and tailored for Geometry Dash.
 
 # How to use
 
